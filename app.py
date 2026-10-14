@@ -7,7 +7,7 @@ st.title("QUẢN LÝ ĐIỂM SINH VIÊN")
 
 # Dữ liệu mẫu
 data = {
-    'Ho_va_ten': ['An', 'Bình', 'Chi', 'Dũng', 'Hà', 'Lan', 'Minh', 'Nam', 'Phúc', 'Trang'],
+    'Ho_va_ten': ['Hào', 'THƯƠNG', 'Huy', 'Trang', 'Tý', 'super idol', 'Nam','Khang rồng', 'Phúc', 'Zăn Ngọc'],
     'Chuyen_can': [8.0, 9.0, 7.0, 9.5, 7.5, 6.0, 9.0, 7.0, 7.5, 9.5],
     'Giua_ky': [7.5, 8.0, 6.5, 9.0, 7.0, 6.0, 8.5, 7.0, 7.5, 9.0],
     'Cuoi_ky': [8.0, 8.5, 6.5, 9.0, 7.5, 6.0, 8.5, 7.0, 7.5, 9.5]
